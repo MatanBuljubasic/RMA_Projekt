@@ -44,7 +44,7 @@ fun RegisterScreen(viewModel: RegisterViewModel, onNavigateToLogin: () -> Unit) 
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
             Text(
-                text = "Welcome to Lifestyle Coach",
+                text = "Welcome to LifeStyle Coach",
                 fontSize = 60.sp,
                 lineHeight = 60.sp,
                 textAlign = TextAlign.Center,
